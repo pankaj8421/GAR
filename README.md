@@ -1,0 +1,2 @@
+# GAR
+global accounts receivables
